@@ -24,4 +24,4 @@ app.on('stormpath.ready',function(){
   console.log('Stormpath Ready');
 });
  
-app.listen(3000);
+app.listen(3001);
